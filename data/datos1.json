@@ -1,0 +1,1982 @@
+[
+  {
+    "anio": 1995,
+    "pais": "El Salvador",
+    "region": "America Central",
+    "valor": "139.13207884814"
+  },
+  {
+    "anio": 1995,
+    "pais": "Colombia",
+    "region": "America del Sur",
+    "valor": "69.67263381127"
+  },
+  {
+    "anio": 1995,
+    "pais": "Sudáfrica",
+    "region": "Africa",
+    "valor": "64.91652657817"
+  },
+  {
+    "anio": 1995,
+    "pais": "Guatemala",
+    "region": "America Central",
+    "valor": "32.54897947467"
+  },
+  {
+    "anio": 1995,
+    "pais": "Jamaica",
+    "region": "America Central",
+    "valor": "31.68778915108"
+  },
+  {
+    "anio": 1995,
+    "pais": "Puerto Rico (EEUU)",
+    "region": "America Central (EEUU)",
+    "valor": "23.34114433202"
+  },
+  {
+    "anio": 1995,
+    "pais": "Namibia",
+    "region": "Africa",
+    "valor": "22.58755250243"
+  },
+  {
+    "anio": 1995,
+    "pais": "Venezuela",
+    "region": "America Central",
+    "valor": "20.33591334550"
+  },
+  {
+    "anio": 1995,
+    "pais": "San Vicente y las Granadinas",
+    "region": "America Central",
+    "valor": "18.50361283041"
+  },
+  {
+    "anio": 1995,
+    "pais": "Estonia",
+    "region": "Europa",
+    "valor": "17.07491445190"
+  },
+  {
+    "anio": 1995,
+    "pais": "México",
+    "region": "America Central",
+    "valor": "16.91940488302"
+  },
+  {
+    "anio": 1995,
+    "pais": "Kazakistán",
+    "region": "Asia",
+    "valor": "15.36495407813"
+  },
+  {
+    "anio": 1995,
+    "pais": "Nicaragua",
+    "region": "America Central",
+    "valor": "15.24679536946"
+  },
+  {
+    "anio": 1995,
+    "pais": "Guyana",
+    "region": "America del Sur",
+    "valor": "14.97295938482"
+  },
+  {
+    "anio": 1995,
+    "pais": "Panamá",
+    "region": "America Central",
+    "valor": "14.08331795500"
+  },
+  {
+    "anio": 1996,
+    "pais": "El Salvador",
+    "region": "America Central",
+    "valor": "117.27728151538"
+  },
+  {
+    "anio": 1996,
+    "pais": "Colombia",
+    "region": "America del Sur",
+    "valor": "71.78689966413"
+  },
+  {
+    "anio": 1996,
+    "pais": "Sudáfrica",
+    "region": "Africa",
+    "valor": "60.39016742800"
+  },
+  {
+    "anio": 1996,
+    "pais": "Jamaica",
+    "region": "America Central",
+    "valor": "37.22825387013"
+  },
+  {
+    "anio": 1996,
+    "pais": "Guatemala",
+    "region": "America Central",
+    "valor": "35.31962208492"
+  },
+  {
+    "anio": 1996,
+    "pais": "Puerto Rico (EEUU)",
+    "region": "America Central (EEUU)",
+    "valor": "23.25648066751"
+  },
+  {
+    "anio": 1996,
+    "pais": "San Vicente y las Granadinas",
+    "region": "America Central",
+    "valor": "22.21214449000"
+  },
+  {
+    "anio": 1996,
+    "pais": "Venezuela",
+    "region": "America Central",
+    "valor": "22.04962583638"
+  },
+  {
+    "anio": 1996,
+    "pais": "Namibia",
+    "region": "Africa",
+    "valor": "20.75280353915"
+  },
+  {
+    "anio": 1996,
+    "pais": "Kazakistán",
+    "region": "Asia",
+    "valor": "16.70639713085"
+  },
+  {
+    "anio": 1996,
+    "pais": "México",
+    "region": "America Central",
+    "valor": "15.45413534922"
+  },
+  {
+    "anio": 1996,
+    "pais": "Estonia",
+    "region": "Europa",
+    "valor": "15.07332043414"
+  },
+  {
+    "anio": 1996,
+    "pais": "Nicaragua",
+    "region": "America Central",
+    "valor": "13.98641585206"
+  },
+  {
+    "anio": 1996,
+    "pais": "República Dominicana",
+    "region": "America Central",
+    "valor": "12.81228708263"
+  },
+  {
+    "anio": 1996,
+    "pais": "Guyana",
+    "region": "America del Sur",
+    "valor": "12.07149617965"
+  },
+  {
+    "anio": 1997,
+    "pais": "El Salvador",
+    "region": "America Central",
+    "valor": "112.56865994657"
+  },
+  {
+    "anio": 1997,
+    "pais": "Colombia",
+    "region": "America del Sur",
+    "valor": "67.18454988840"
+  },
+  {
+    "anio": 1997,
+    "pais": "Sudáfrica",
+    "region": "Africa",
+    "valor": "57.11239533272"
+  },
+  {
+    "anio": 1997,
+    "pais": "Albania",
+    "region": "Europa",
+    "valor": "49.87221457860"
+  },
+  {
+    "anio": 1997,
+    "pais": "Jamaica",
+    "region": "America Central",
+    "valor": "41.37325733090"
+  },
+  {
+    "anio": 1997,
+    "pais": "Guatemala",
+    "region": "America Central",
+    "valor": "38.14334091970"
+  },
+  {
+    "anio": 1997,
+    "pais": "Puerto Rico (EEUU)",
+    "region": "America Central (EEUU)",
+    "valor": "19.25195005768"
+  },
+  {
+    "anio": 1997,
+    "pais": "Namibia",
+    "region": "Africa",
+    "valor": "18.66574726921"
+  },
+  {
+    "anio": 1997,
+    "pais": "Venezuela",
+    "region": "America Central",
+    "valor": "18.39978806928"
+  },
+  {
+    "anio": 1997,
+    "pais": "Kazakistán",
+    "region": "Asia",
+    "valor": "16.66808096722"
+  },
+  {
+    "anio": 1997,
+    "pais": "Saint Kitts y Nevis",
+    "region": "America Central",
+    "valor": "15.80064105458"
+  },
+  {
+    "anio": 1997,
+    "pais": "México",
+    "region": "America Central",
+    "valor": "14.19929696087"
+  },
+  {
+    "anio": 1997,
+    "pais": "Nicaragua",
+    "region": "America Central",
+    "valor": "14.07312511879"
+  },
+  {
+    "anio": 1997,
+    "pais": "Estonia",
+    "region": "Europa",
+    "valor": "12.68539924800"
+  },
+  {
+    "anio": 1997,
+    "pais": "República Dominicana",
+    "region": "America Central",
+    "valor": "12.67303329907"
+  },
+  {
+    "anio": 1998,
+    "pais": "El Salvador",
+    "region": "America Central",
+    "valor": "94.99673108491"
+  },
+  {
+    "anio": 1998,
+    "pais": "Colombia",
+    "region": "America del Sur",
+    "valor": "60.08465494990"
+  },
+  {
+    "anio": 1998,
+    "pais": "Sudáfrica",
+    "region": "Africa",
+    "valor": "57.74168140734"
+  },
+  {
+    "anio": 1998,
+    "pais": "Jamaica",
+    "region": "America Central",
+    "valor": "33.90499496754"
+  },
+  {
+    "anio": 1998,
+    "pais": "Guatemala",
+    "region": "America Central",
+    "valor": "30.86778386284"
+  },
+  {
+    "anio": 1998,
+    "pais": "Namibia",
+    "region": "Africa",
+    "valor": "22.57876076444"
+  },
+  {
+    "anio": 1998,
+    "pais": "San Vicente y las Granadinas",
+    "region": "America Central",
+    "valor": "22.24137451695"
+  },
+  {
+    "anio": 1998,
+    "pais": "Venezuela",
+    "region": "America Central",
+    "valor": "19.42424157302"
+  },
+  {
+    "anio": 1998,
+    "pais": "Albania",
+    "region": "Europa",
+    "valor": "18.60971466079"
+  },
+  {
+    "anio": 1998,
+    "pais": "Saint Kitts y Nevis",
+    "region": "America Central",
+    "valor": "17.82213509178"
+  },
+  {
+    "anio": 1998,
+    "pais": "Puerto Rico (EEUU)",
+    "region": "America Central (EEUU)",
+    "valor": "17.22570963583"
+  },
+  {
+    "anio": 1998,
+    "pais": "Paraguay",
+    "region": "America del Sur",
+    "valor": "16.70553566027"
+  },
+  {
+    "anio": 1998,
+    "pais": "Kazakistán",
+    "region": "Asia",
+    "valor": "16.58020742488"
+  },
+  {
+    "anio": 1998,
+    "pais": "Guyana",
+    "region": "America del Sur",
+    "valor": "15.46974637830"
+  },
+  {
+    "anio": 1998,
+    "pais": "Estonia",
+    "region": "Europa",
+    "valor": "14.09652089234"
+  },
+  {
+    "anio": 1999,
+    "pais": "El Salvador",
+    "region": "America Central",
+    "valor": "65.04718077567"
+  },
+  {
+    "anio": 1999,
+    "pais": "Colombia",
+    "region": "America del Sur",
+    "valor": "62.29244854563"
+  },
+  {
+    "anio": 1999,
+    "pais": "Sudáfrica",
+    "region": "Africa",
+    "valor": "51.21287095177"
+  },
+  {
+    "anio": 1999,
+    "pais": "Honduras",
+    "region": "America Central",
+    "valor": "42.08425257514"
+  },
+  {
+    "anio": 1999,
+    "pais": "Jamaica",
+    "region": "America Central",
+    "valor": "33.38541823446"
+  },
+  {
+    "anio": 1999,
+    "pais": "Venezuela",
+    "region": "America Central",
+    "valor": "24.98512426394"
+  },
+  {
+    "anio": 1999,
+    "pais": "Islas Vírgenes Estadounidenses (EEUU)",
+    "region": "America del Norte",
+    "valor": "24.90000000000"
+  },
+  {
+    "anio": 1999,
+    "pais": "Guatemala",
+    "region": "America Central",
+    "valor": "24.19285615484"
+  },
+  {
+    "anio": 1999,
+    "pais": "Namibia",
+    "region": "Africa",
+    "valor": "20.47504259781"
+  },
+  {
+    "anio": 1999,
+    "pais": "Albania",
+    "region": "Europa",
+    "valor": "16.14202377369"
+  },
+  {
+    "anio": 1999,
+    "pais": "Kazakistán",
+    "region": "Asia",
+    "valor": "15.74022971983"
+  },
+  {
+    "anio": 1999,
+    "pais": "Puerto Rico (EEUU)",
+    "region": "America Central (EEUU)",
+    "valor": "15.59141961848"
+  },
+  {
+    "anio": 1999,
+    "pais": "Saint Kitts y Nevis",
+    "region": "America Central",
+    "valor": "13.19290221861"
+  },
+  {
+    "anio": 1999,
+    "pais": "San Vicente y las Granadinas",
+    "region": "America Central",
+    "valor": "12.97870565223"
+  },
+  {
+    "anio": 1999,
+    "pais": "República Dominicana",
+    "region": "America Central",
+    "valor": "12.60320797752"
+  },
+  {
+    "anio": 2000,
+    "pais": "Colombia",
+    "region": "America del Sur",
+    "valor": "65.68415896284"
+  },
+  {
+    "anio": 2000,
+    "pais": "El Salvador",
+    "region": "America Central",
+    "valor": "60.51851293862"
+  },
+  {
+    "anio": 2000,
+    "pais": "Honduras",
+    "region": "America Central",
+    "valor": "48.67967867120"
+  },
+  {
+    "anio": 2000,
+    "pais": "Sudáfrica",
+    "region": "Africa",
+    "valor": "47.58102283017"
+  },
+  {
+    "anio": 2000,
+    "pais": "Jamaica",
+    "region": "America Central",
+    "valor": "33.38522408373"
+  },
+  {
+    "anio": 2000,
+    "pais": "Venezuela",
+    "region": "America Central",
+    "valor": "32.75844748970"
+  },
+  {
+    "anio": 2000,
+    "pais": "Rusia",
+    "region": "Asia",
+    "valor": "28.06760822187"
+  },
+  {
+    "anio": 2000,
+    "pais": "Guatemala",
+    "region": "America Central",
+    "valor": "24.92544896064"
+  },
+  {
+    "anio": 2000,
+    "pais": "Bahamas",
+    "region": "America del Norte",
+    "valor": "24.84138440364"
+  },
+  {
+    "anio": 2000,
+    "pais": "Brasil",
+    "region": "America del Sur",
+    "valor": "23.72957361659"
+  },
+  {
+    "anio": 2000,
+    "pais": "Groenlandia",
+    "region": "America del Norte",
+    "valor": "23.14196706720"
+  },
+  {
+    "anio": 2000,
+    "pais": "Islas Vírgenes Estadounidenses (EEUU)",
+    "region": "America del Norte",
+    "valor": "21.15487205901"
+  },
+  {
+    "anio": 2000,
+    "pais": "Namibia",
+    "region": "Africa",
+    "valor": "20.00782411227"
+  },
+  {
+    "anio": 2000,
+    "pais": "Paraguay",
+    "region": "America del Sur",
+    "valor": "18.76402587361"
+  },
+  {
+    "anio": 2000,
+    "pais": "San Vicente y las Granadinas",
+    "region": "America Central",
+    "valor": "18.53602476413"
+  },
+  {
+    "anio": 2001,
+    "pais": "Colombia",
+    "region": "America del Sur",
+    "valor": "67.92081243246"
+  },
+  {
+    "anio": 2001,
+    "pais": "El Salvador",
+    "region": "America Central",
+    "valor": "60.78603282581"
+  },
+  {
+    "anio": 2001,
+    "pais": "Honduras",
+    "region": "America Central",
+    "valor": "52.11367414700"
+  },
+  {
+    "anio": 2001,
+    "pais": "Sudáfrica",
+    "region": "Africa",
+    "valor": "46.14637756002"
+  },
+  {
+    "anio": 2001,
+    "pais": "Jamaica",
+    "region": "America Central",
+    "valor": "42.54745311095"
+  },
+  {
+    "anio": 2001,
+    "pais": "Venezuela",
+    "region": "America Central",
+    "valor": "31.90575648789"
+  },
+  {
+    "anio": 2001,
+    "pais": "Groenlandia",
+    "region": "America del Norte",
+    "valor": "30.18090791272"
+  },
+  {
+    "anio": 2001,
+    "pais": "Rusia",
+    "region": "Asia",
+    "valor": "29.43527074167"
+  },
+  {
+    "anio": 2001,
+    "pais": "Guatemala",
+    "region": "America Central",
+    "valor": "27.08607653234"
+  },
+  {
+    "anio": 2001,
+    "pais": "Islas Vírgenes Estadounidenses (EEUU)",
+    "region": "America del Norte",
+    "valor": "25.76133958966"
+  },
+  {
+    "anio": 2001,
+    "pais": "Belice",
+    "region": "America Central",
+    "valor": "25.09961409343"
+  },
+  {
+    "anio": 2001,
+    "pais": "Brasil",
+    "region": "America del Sur",
+    "valor": "24.73954662826"
+  },
+  {
+    "anio": 2001,
+    "pais": "Paraguay",
+    "region": "America del Sur",
+    "valor": "24.30352101422"
+  },
+  {
+    "anio": 2001,
+    "pais": "Santa Lucia",
+    "region": "America del Norte",
+    "valor": "21.45597738288"
+  },
+  {
+    "anio": 2001,
+    "pais": "Puerto Rico (EEUU)",
+    "region": "America Central (EEUU)",
+    "valor": "19.65837584972"
+  },
+  {
+    "anio": 2002,
+    "pais": "Colombia",
+    "region": "America del Sur",
+    "valor": "68.28313463343"
+  },
+  {
+    "anio": 2002,
+    "pais": "Honduras",
+    "region": "America Central",
+    "valor": "52.78911731146"
+  },
+  {
+    "anio": 2002,
+    "pais": "El Salvador",
+    "region": "America Central",
+    "valor": "47.72483827845"
+  },
+  {
+    "anio": 2002,
+    "pais": "Sudáfrica",
+    "region": "Africa",
+    "valor": "45.83192427757"
+  },
+  {
+    "anio": 2002,
+    "pais": "Jamaica",
+    "region": "America Central",
+    "valor": "38.76909424266"
+  },
+  {
+    "anio": 2002,
+    "pais": "Venezuela",
+    "region": "America Central",
+    "valor": "37.84924061444"
+  },
+  {
+    "anio": 2002,
+    "pais": "Islas Vírgenes Estadounidenses (EEUU)",
+    "region": "America del Norte",
+    "valor": "37.76817708669"
+  },
+  {
+    "anio": 2002,
+    "pais": "Belice",
+    "region": "America Central",
+    "valor": "33.18001876387"
+  },
+  {
+    "anio": 2002,
+    "pais": "Rusia",
+    "region": "Asia",
+    "valor": "30.47765829652"
+  },
+  {
+    "anio": 2002,
+    "pais": "Curazao (paises Bajos)",
+    "region": "America del Sur",
+    "valor": "30.27268705028"
+  },
+  {
+    "anio": 2002,
+    "pais": "Guatemala",
+    "region": "America Central",
+    "valor": "29.74072574251"
+  },
+  {
+    "anio": 2002,
+    "pais": "Santa Lucia",
+    "region": "America del Norte",
+    "valor": "26.28894049311"
+  },
+  {
+    "anio": 2002,
+    "pais": "Brasil",
+    "region": "America del Sur",
+    "valor": "25.30378560922"
+  },
+  {
+    "anio": 2002,
+    "pais": "Paraguay",
+    "region": "America del Sur",
+    "valor": "24.90646008585"
+  },
+  {
+    "anio": 2002,
+    "pais": "Groenlandia",
+    "region": "America del Norte",
+    "valor": "21.23217382073"
+  },
+  {
+    "anio": 2003,
+    "pais": "Honduras",
+    "region": "America Central",
+    "valor": "57.90593761200"
+  },
+  {
+    "anio": 2003,
+    "pais": "El Salvador",
+    "region": "America Central",
+    "valor": "56.19995528788"
+  },
+  {
+    "anio": 2003,
+    "pais": "Colombia",
+    "region": "America del Sur",
+    "valor": "55.80498134010"
+  },
+  {
+    "anio": 2003,
+    "pais": "Venezuela",
+    "region": "America Central",
+    "valor": "43.84479160252"
+  },
+  {
+    "anio": 2003,
+    "pais": "Sudáfrica",
+    "region": "Africa",
+    "valor": "41.60446930723"
+  },
+  {
+    "anio": 2003,
+    "pais": "Jamaica",
+    "region": "America Central",
+    "valor": "35.94455469489"
+  },
+  {
+    "anio": 2003,
+    "pais": "Guatemala",
+    "region": "America Central",
+    "valor": "33.89470386652"
+  },
+  {
+    "anio": 2003,
+    "pais": "Curazao (paises Bajos)",
+    "region": "America del Sur",
+    "valor": "33.58823942947"
+  },
+  {
+    "anio": 2003,
+    "pais": "Rusia",
+    "region": "Asia",
+    "valor": "28.88549164903"
+  },
+  {
+    "anio": 2003,
+    "pais": "Islas Vírgenes Estadounidenses (EEUU)",
+    "region": "America del Norte",
+    "valor": "28.61045481394"
+  },
+  {
+    "anio": 2003,
+    "pais": "Guyana",
+    "region": "America del Sur",
+    "valor": "27.79783921677"
+  },
+  {
+    "anio": 2003,
+    "pais": "Brasil",
+    "region": "America del Sur",
+    "valor": "25.66147675085"
+  },
+  {
+    "anio": 2003,
+    "pais": "Belice",
+    "region": "America Central",
+    "valor": "2.89503214060"
+  },
+  {
+    "anio": 2003,
+    "pais": "Paraguay",
+    "region": "America del Sur",
+    "valor": "22.91389901836"
+  },
+  {
+    "anio": 2003,
+    "pais": "Santa Lucia",
+    "region": "America del Norte",
+    "valor": "22.36399893150"
+  },
+  {
+    "anio": 2004,
+    "pais": "El Salvador",
+    "region": "America Central",
+    "valor": "6.94161170849"
+  },
+  {
+    "anio": 2004,
+    "pais": "Jamaica",
+    "region": "America Central",
+    "valor": "53.90693339910"
+  },
+  {
+    "anio": 2004,
+    "pais": "Honduras",
+    "region": "America Central",
+    "valor": "50.51253075830"
+  },
+  {
+    "anio": 2004,
+    "pais": "Colombia",
+    "region": "America del Sur",
+    "valor": "47.30344278482"
+  },
+  {
+    "anio": 2004,
+    "pais": "Sudáfrica",
+    "region": "Africa",
+    "valor": "38.95132576588"
+  },
+  {
+    "anio": 2004,
+    "pais": "Venezuela",
+    "region": "America Central",
+    "valor": "36.91615808350"
+  },
+  {
+    "anio": 2004,
+    "pais": "Guatemala",
+    "region": "America Central",
+    "valor": "35.21939841016"
+  },
+  {
+    "anio": 2004,
+    "pais": "Islas Vírgenes Estadounidenses (EEUU)",
+    "region": "America del Norte",
+    "valor": "3.23200044409"
+  },
+  {
+    "anio": 2004,
+    "pais": "Curazao (paises Bajos)",
+    "region": "America del Sur",
+    "valor": "31.99200980048"
+  },
+  {
+    "anio": 2004,
+    "pais": "Belice",
+    "region": "America Central",
+    "valor": "28.61396143997"
+  },
+  {
+    "anio": 2004,
+    "pais": "Rusia",
+    "region": "Asia",
+    "valor": "27.25266902912"
+  },
+  {
+    "anio": 2004,
+    "pais": "San Vicente y las Granadinas",
+    "region": "America Central",
+    "valor": "26.71358431820"
+  },
+  {
+    "anio": 2004,
+    "pais": "República Dominicana",
+    "region": "America Central",
+    "valor": "2.59629234237"
+  },
+  {
+    "anio": 2004,
+    "pais": "Brasil",
+    "region": "America del Sur",
+    "valor": "2.02267725009"
+  },
+  {
+    "anio": 2004,
+    "pais": "Saint Kitts y Nevis",
+    "region": "America Central",
+    "valor": "22.93052052282"
+  },
+  {
+    "anio": 2005,
+    "pais": "El Salvador",
+    "region": "America Central",
+    "valor": "6.38920404362"
+  },
+  {
+    "anio": 2005,
+    "pais": "Jamaica",
+    "region": "America Central",
+    "valor": "60.99087213668"
+  },
+  {
+    "anio": 2005,
+    "pais": "Honduras",
+    "region": "America Central",
+    "valor": "43.56181587131"
+  },
+  {
+    "anio": 2005,
+    "pais": "Colombia",
+    "region": "America del Sur",
+    "valor": "41.84067166488"
+  },
+  {
+    "anio": 2005,
+    "pais": "Guatemala",
+    "region": "America Central",
+    "valor": "40.76045042054"
+  },
+  {
+    "anio": 2005,
+    "pais": "Sudáfrica",
+    "region": "Africa",
+    "valor": "37.95120361726"
+  },
+  {
+    "anio": 2005,
+    "pais": "Venezuela",
+    "region": "America Central",
+    "valor": "37.20109059978"
+  },
+  {
+    "anio": 2005,
+    "pais": "Islas Vírgenes Estadounidenses (EEUU)",
+    "region": "America del Norte",
+    "valor": "3.32504893639"
+  },
+  {
+    "anio": 2005,
+    "pais": "Trinidad y Tobago",
+    "region": "America del Sur",
+    "valor": "29.76250140716"
+  },
+  {
+    "anio": 2005,
+    "pais": "Belice",
+    "region": "America Central",
+    "valor": "28.59392043830"
+  },
+  {
+    "anio": 2005,
+    "pais": "República Dominicana",
+    "region": "America Central",
+    "valor": "25.91591767788"
+  },
+  {
+    "anio": 2005,
+    "pais": "Santa Lucia",
+    "region": "America del Norte",
+    "valor": "25.04367372369"
+  },
+  {
+    "anio": 2005,
+    "pais": "Rusia",
+    "region": "Asia",
+    "valor": "2.81301375588"
+  },
+  {
+    "anio": 2005,
+    "pais": "San Vicente y las Granadinas",
+    "region": "America Central",
+    "valor": "23.90936511440"
+  },
+  {
+    "anio": 2005,
+    "pais": "Brasil",
+    "region": "America del Sur",
+    "valor": "23.34966429724"
+  },
+  {
+    "anio": 2006,
+    "pais": "El Salvador",
+    "region": "America Central",
+    "valor": "6.83966424050"
+  },
+  {
+    "anio": 2006,
+    "pais": "Jamaica",
+    "region": "America Central",
+    "valor": "48.54581728876"
+  },
+  {
+    "anio": 2006,
+    "pais": "Venezuela",
+    "region": "America Central",
+    "valor": "4.99770330724"
+  },
+  {
+    "anio": 2006,
+    "pais": "Guatemala",
+    "region": "America Central",
+    "valor": "43.92771878616"
+  },
+  {
+    "anio": 2006,
+    "pais": "Honduras",
+    "region": "America Central",
+    "valor": "41.34507544084"
+  },
+  {
+    "anio": 2006,
+    "pais": "Islas Vírgenes Estadounidenses (EEUU)",
+    "region": "America del Norte",
+    "valor": "40.01042131904"
+  },
+  {
+    "anio": 2006,
+    "pais": "Colombia",
+    "region": "America del Sur",
+    "valor": "39.87387272873"
+  },
+  {
+    "anio": 2006,
+    "pais": "Sudáfrica",
+    "region": "Africa",
+    "valor": "38.70386261956"
+  },
+  {
+    "anio": 2006,
+    "pais": "Saint Kitts y Nevis",
+    "region": "America Central",
+    "valor": "3.54582401951"
+  },
+  {
+    "anio": 2006,
+    "pais": "Belice",
+    "region": "America Central",
+    "valor": "31.64263087839"
+  },
+  {
+    "anio": 2006,
+    "pais": "Trinidad y Tobago",
+    "region": "America del Sur",
+    "valor": "28.46960888436"
+  },
+  {
+    "anio": 2006,
+    "pais": "Santa Lucia",
+    "region": "America del Norte",
+    "valor": "25.99648140647"
+  },
+  {
+    "anio": 2006,
+    "pais": "Brasil",
+    "region": "America del Sur",
+    "valor": "23.85354439361"
+  },
+  {
+    "anio": 2006,
+    "pais": "República Dominicana",
+    "region": "America Central",
+    "valor": "22.87826989060"
+  },
+  {
+    "anio": 2006,
+    "pais": "Guyana",
+    "region": "America del Sur",
+    "valor": "20.41085857676"
+  },
+  {
+    "anio": 2007,
+    "pais": "El Salvador",
+    "region": "America Central",
+    "valor": "57.48359284784"
+  },
+  {
+    "anio": 2007,
+    "pais": "Jamaica",
+    "region": "America Central",
+    "valor": "57.07147661997"
+  },
+  {
+    "anio": 2007,
+    "pais": "Venezuela",
+    "region": "America Central",
+    "valor": "47.50836569380"
+  },
+  {
+    "anio": 2007,
+    "pais": "Honduras",
+    "region": "America Central",
+    "valor": "46.54920905265"
+  },
+  {
+    "anio": 2007,
+    "pais": "Lesotho",
+    "region": "Africa",
+    "valor": "45.14986982208"
+  },
+  {
+    "anio": 2007,
+    "pais": "Guatemala",
+    "region": "America Central",
+    "valor": "42.19619940781"
+  },
+  {
+    "anio": 2007,
+    "pais": "Islas Vírgenes Estadounidenses (EEUU)",
+    "region": "America del Norte",
+    "valor": "40.13402898984"
+  },
+  {
+    "anio": 2007,
+    "pais": "Colombia",
+    "region": "America del Sur",
+    "valor": "38.75643014653"
+  },
+  {
+    "anio": 2007,
+    "pais": "Sudáfrica",
+    "region": "Africa",
+    "valor": "36.88322256573"
+  },
+  {
+    "anio": 2007,
+    "pais": "San Vicente y las Granadinas",
+    "region": "America Central",
+    "valor": "36.68143094262"
+  },
+  {
+    "anio": 2007,
+    "pais": "Belice",
+    "region": "America Central",
+    "valor": "32.50593987406"
+  },
+  {
+    "anio": 2007,
+    "pais": "Saint Kitts y Nevis",
+    "region": "America Central",
+    "valor": "32.13948536649"
+  },
+  {
+    "anio": 2007,
+    "pais": "Trinidad y Tobago",
+    "region": "America del Sur",
+    "valor": "29.86419809663"
+  },
+  {
+    "anio": 2007,
+    "pais": "Brasil",
+    "region": "America del Sur",
+    "valor": "23.36061645686"
+  },
+  {
+    "anio": 2007,
+    "pais": "Bahamas",
+    "region": "America del Norte",
+    "valor": "22.78516510481"
+  },
+  {
+    "anio": 2008,
+    "pais": "Jamaica",
+    "region": "America Central",
+    "valor": "58.02613649152"
+  },
+  {
+    "anio": 2008,
+    "pais": "Honduras",
+    "region": "America Central",
+    "valor": "56.58825773964"
+  },
+  {
+    "anio": 2008,
+    "pais": "El Salvador",
+    "region": "America Central",
+    "valor": "52.02689687464"
+  },
+  {
+    "anio": 2008,
+    "pais": "Venezuela",
+    "region": "America Central",
+    "valor": "51.84121599473"
+  },
+  {
+    "anio": 2008,
+    "pais": "Saint Kitts y Nevis",
+    "region": "America Central",
+    "valor": "45.69657474370"
+  },
+  {
+    "anio": 2008,
+    "pais": "Guatemala",
+    "region": "America Central",
+    "valor": "4.92243027206"
+  },
+  {
+    "anio": 2008,
+    "pais": "Islas Vírgenes Estadounidenses (EEUU)",
+    "region": "America del Norte",
+    "valor": "43.07196763984"
+  },
+  {
+    "anio": 2008,
+    "pais": "Trinidad y Tobago",
+    "region": "America del Sur",
+    "valor": "41.58519415040"
+  },
+  {
+    "anio": 2008,
+    "pais": "Lesotho",
+    "region": "Africa",
+    "valor": "37.60131604606"
+  },
+  {
+    "anio": 2008,
+    "pais": "Colombia",
+    "region": "America del Sur",
+    "valor": "35.94531181378"
+  },
+  {
+    "anio": 2008,
+    "pais": "Sudáfrica",
+    "region": "Africa",
+    "valor": "35.87231953644"
+  },
+  {
+    "anio": 2008,
+    "pais": "Belice",
+    "region": "America Central",
+    "valor": "33.64199043000"
+  },
+  {
+    "anio": 2008,
+    "pais": "República Dominicana",
+    "region": "America Central",
+    "valor": "2.84299311370"
+  },
+  {
+    "anio": 2008,
+    "pais": "Brasil",
+    "region": "America del Sur",
+    "valor": "23.77719498216"
+  },
+  {
+    "anio": 2008,
+    "pais": "Santa Lucia",
+    "region": "America del Norte",
+    "valor": "23.04692116771"
+  },
+  {
+    "anio": 2009,
+    "pais": "El Salvador",
+    "region": "America Central",
+    "valor": "71.39975454909"
+  },
+  {
+    "anio": 2009,
+    "pais": "Honduras",
+    "region": "America Central",
+    "valor": "65.71233603496"
+  },
+  {
+    "anio": 2009,
+    "pais": "Jamaica",
+    "region": "America Central",
+    "valor": "60.01964279219"
+  },
+  {
+    "anio": 2009,
+    "pais": "Saint Kitts y Nevis",
+    "region": "America Central",
+    "valor": "53.05978068624"
+  },
+  {
+    "anio": 2009,
+    "pais": "Venezuela",
+    "region": "America Central",
+    "valor": "48.92028540063"
+  },
+  {
+    "anio": 2009,
+    "pais": "Islas Vírgenes Estadounidenses (EEUU)",
+    "region": "America del Norte",
+    "valor": "46.96202650537"
+  },
+  {
+    "anio": 2009,
+    "pais": "Guatemala",
+    "region": "America Central",
+    "valor": "45.38911421237"
+  },
+  {
+    "anio": 2009,
+    "pais": "Trinidad y Tobago",
+    "region": "America del Sur",
+    "valor": "38.36206831323"
+  },
+  {
+    "anio": 2009,
+    "pais": "Lesotho",
+    "region": "Africa",
+    "valor": "35.80610030958"
+  },
+  {
+    "anio": 2009,
+    "pais": "Colombia",
+    "region": "America del Sur",
+    "valor": "3.82679444139"
+  },
+  {
+    "anio": 2009,
+    "pais": "Sudáfrica",
+    "region": "Africa",
+    "valor": "32.89529314597"
+  },
+  {
+    "anio": 2009,
+    "pais": "Belice",
+    "region": "America Central",
+    "valor": "30.89870639540"
+  },
+  {
+    "anio": 2009,
+    "pais": "Bahamas",
+    "region": "America del Norte",
+    "valor": "2.51698717226"
+  },
+  {
+    "anio": 2009,
+    "pais": "República Dominicana",
+    "region": "America Central",
+    "valor": "2.31468920504"
+  },
+  {
+    "anio": 2009,
+    "pais": "Puerto Rico (EEUU)",
+    "region": "America Central (EEUU)",
+    "valor": "2.17927983317"
+  },
+  {
+    "anio": 2010,
+    "pais": "Honduras",
+    "region": "America Central",
+    "valor": "76.09724143839"
+  },
+  {
+    "anio": 2010,
+    "pais": "El Salvador",
+    "region": "America Central",
+    "valor": "6.67545638616"
+  },
+  {
+    "anio": 2010,
+    "pais": "Islas Vírgenes Estadounidenses (EEUU)",
+    "region": "America del Norte",
+    "valor": "52.75603161594"
+  },
+  {
+    "anio": 2010,
+    "pais": "Jamaica",
+    "region": "America Central",
+    "valor": "51.36287319724"
+  },
+  {
+    "anio": 2010,
+    "pais": "Venezuela",
+    "region": "America Central",
+    "valor": "45.05989089926"
+  },
+  {
+    "anio": 2010,
+    "pais": "Saint Kitts y Nevis",
+    "region": "America Central",
+    "valor": "40.82029351735"
+  },
+  {
+    "anio": 2010,
+    "pais": "Guatemala",
+    "region": "America Central",
+    "valor": "40.73704802809"
+  },
+  {
+    "anio": 2010,
+    "pais": "Belice",
+    "region": "America Central",
+    "valor": "40.11094251387"
+  },
+  {
+    "anio": 2010,
+    "pais": "Lesotho",
+    "region": "Africa",
+    "valor": "37.44086768721"
+  },
+  {
+    "anio": 2010,
+    "pais": "Trinidad y Tobago",
+    "region": "America del Sur",
+    "valor": "35.61478804307"
+  },
+  {
+    "anio": 2010,
+    "pais": "Colombia",
+    "region": "America del Sur",
+    "valor": "33.66646487985"
+  },
+  {
+    "anio": 2010,
+    "pais": "Sudáfrica",
+    "region": "Africa",
+    "valor": "30.80954507738"
+  },
+  {
+    "anio": 2010,
+    "pais": "Puerto Rico (EEUU)",
+    "region": "America Central (EEUU)",
+    "valor": "27.36303482693"
+  },
+  {
+    "anio": 2010,
+    "pais": "Bahamas",
+    "region": "America del Norte",
+    "valor": "26.05090457609"
+  },
+  {
+    "anio": 2010,
+    "pais": "Santa Lucia",
+    "region": "America del Norte",
+    "valor": "25.49542241279"
+  },
+  {
+    "anio": 2011,
+    "pais": "Honduras",
+    "region": "America Central",
+    "valor": "85.06154509316"
+  },
+  {
+    "anio": 2011,
+    "pais": "El Salvador",
+    "region": "America Central",
+    "valor": "70.58470164197"
+  },
+  {
+    "anio": 2011,
+    "pais": "Saint Kitts y Nevis",
+    "region": "America Central",
+    "valor": "65.37707187632"
+  },
+  {
+    "anio": 2011,
+    "pais": "Venezuela",
+    "region": "America Central",
+    "valor": "47.84937297059"
+  },
+  {
+    "anio": 2011,
+    "pais": "Islas Vírgenes Estadounidenses (EEUU)",
+    "region": "America del Norte",
+    "valor": "42.51580170630"
+  },
+  {
+    "anio": 2011,
+    "pais": "Jamaica",
+    "region": "America Central",
+    "valor": "40.04250938242"
+  },
+  {
+    "anio": 2011,
+    "pais": "Guatemala",
+    "region": "America Central",
+    "valor": "38.00274789100"
+  },
+  {
+    "anio": 2011,
+    "pais": "Belice",
+    "region": "America Central",
+    "valor": "37.66798707137"
+  },
+  {
+    "anio": 2011,
+    "pais": "Colombia",
+    "region": "America del Sur",
+    "valor": "3.75148796575"
+  },
+  {
+    "anio": 2011,
+    "pais": "Bahamas",
+    "region": "America del Norte",
+    "valor": "3.64568647563"
+  },
+  {
+    "anio": 2011,
+    "pais": "Lesotho",
+    "region": "Africa",
+    "valor": "3.49334985655"
+  },
+  {
+    "anio": 2011,
+    "pais": "Puerto Rico (EEUU)",
+    "region": "America Central (EEUU)",
+    "valor": "31.40018948018"
+  },
+  {
+    "anio": 2011,
+    "pais": "Sudáfrica",
+    "region": "Africa",
+    "valor": "29.76072256601"
+  },
+  {
+    "anio": 2011,
+    "pais": "Santa Lucia",
+    "region": "America del Norte",
+    "valor": "26.46233144645"
+  },
+  {
+    "anio": 2011,
+    "pais": "Trinidad y Tobago",
+    "region": "America del Sur",
+    "valor": "26.37122898917"
+  },
+  {
+    "anio": 2012,
+    "pais": "Honduras",
+    "region": "America Central",
+    "valor": "8.32046196138"
+  },
+  {
+    "anio": 2012,
+    "pais": "Venezuela",
+    "region": "America Central",
+    "valor": "53.76495162091"
+  },
+  {
+    "anio": 2012,
+    "pais": "Islas Vírgenes Estadounidenses (EEUU)",
+    "region": "America del Norte",
+    "valor": "49.26248377654"
+  },
+  {
+    "anio": 2012,
+    "pais": "Belice",
+    "region": "America Central",
+    "valor": "43.06491516212"
+  },
+  {
+    "anio": 2012,
+    "pais": "El Salvador",
+    "region": "America Central",
+    "valor": "41.69582749179"
+  },
+  {
+    "anio": 2012,
+    "pais": "Jamaica",
+    "region": "America Central",
+    "valor": "38.68367105574"
+  },
+  {
+    "anio": 2012,
+    "pais": "Colombia",
+    "region": "America del Sur",
+    "valor": "35.06715605684"
+  },
+  {
+    "anio": 2012,
+    "pais": "Saint Kitts y Nevis",
+    "region": "America Central",
+    "valor": "3.22638854557"
+  },
+  {
+    "anio": 2012,
+    "pais": "Guatemala",
+    "region": "America Central",
+    "valor": "33.75667013467"
+  },
+  {
+    "anio": 2012,
+    "pais": "Lesotho",
+    "region": "Africa",
+    "valor": "30.67091306495"
+  },
+  {
+    "anio": 2012,
+    "pais": "Sudáfrica",
+    "region": "Africa",
+    "valor": "30.59159749405"
+  },
+  {
+    "anio": 2012,
+    "pais": "Bahamas",
+    "region": "America del Norte",
+    "valor": "29.83558175353"
+  },
+  {
+    "anio": 2012,
+    "pais": "Estados pequeos del Caribe",
+    "region": "Caribe",
+    "valor": "29.00000000000"
+  },
+  {
+    "anio": 2012,
+    "pais": "Trinidad y Tobago",
+    "region": "America del Sur",
+    "valor": "28.32464214051"
+  },
+  {
+    "anio": 2012,
+    "pais": "Puerto Rico (EEUU)",
+    "region": "America Central (EEUU)",
+    "valor": "27.15292396965"
+  },
+  {
+    "anio": 2013,
+    "pais": "Honduras",
+    "region": "America Central",
+    "valor": "7.27996883730"
+  },
+  {
+    "anio": 2013,
+    "pais": "Jamaica",
+    "region": "America Central",
+    "valor": "42.11364934584"
+  },
+  {
+    "anio": 2013,
+    "pais": "El Salvador",
+    "region": "America Central",
+    "valor": "40.20300196280"
+  },
+  {
+    "anio": 2013,
+    "pais": "Guatemala",
+    "region": "America Central",
+    "valor": "33.68125110363"
+  },
+  {
+    "anio": 2013,
+    "pais": "Colombia",
+    "region": "America del Sur",
+    "valor": "32.56871382898"
+  },
+  {
+    "anio": 2013,
+    "pais": "Sudáfrica",
+    "region": "Africa",
+    "valor": "31.66045087993"
+  },
+  {
+    "anio": 2013,
+    "pais": "Bahamas",
+    "region": "America del Norte",
+    "valor": "31.54490510020"
+  },
+  {
+    "anio": 2013,
+    "pais": "Lesotho",
+    "region": "Africa",
+    "valor": "31.07642012864"
+  },
+  {
+    "anio": 2013,
+    "pais": "Trinidad y Tobago",
+    "region": "America del Sur",
+    "valor": "30.26149491785"
+  },
+  {
+    "anio": 2013,
+    "pais": "Belice",
+    "region": "America Central",
+    "valor": "28.76393525500"
+  },
+  {
+    "anio": 2013,
+    "pais": "Brasil",
+    "region": "America del Sur",
+    "valor": "26.75923426033"
+  },
+  {
+    "anio": 2013,
+    "pais": "Puerto Rico (EEUU)",
+    "region": "America Central (EEUU)",
+    "valor": "2.45290687319"
+  },
+  {
+    "anio": 2013,
+    "pais": "Guyana",
+    "region": "America del Sur",
+    "valor": "20.44636391098"
+  },
+  {
+    "anio": 2013,
+    "pais": "Seychelles",
+    "region": "Seychelles",
+    "valor": "19.40386999407"
+  },
+  {
+    "anio": 2013,
+    "pais": "República Dominicana",
+    "region": "America Central",
+    "valor": "19.23881969744"
+  },
+  {
+    "anio": 2014,
+    "pais": "Honduras",
+    "region": "America Central",
+    "valor": "66.87314739473"
+  },
+  {
+    "anio": 2014,
+    "pais": "El Salvador",
+    "region": "America Central",
+    "valor": "62.42448682885"
+  },
+  {
+    "anio": 2014,
+    "pais": "Venezuela",
+    "region": "America Central",
+    "valor": "61.90957766217"
+  },
+  {
+    "anio": 2014,
+    "pais": "Jamaica",
+    "region": "America Central",
+    "valor": "35.11423656933"
+  },
+  {
+    "anio": 2014,
+    "pais": "Belice",
+    "region": "America Central",
+    "valor": "3.97358499150"
+  },
+  {
+    "anio": 2014,
+    "pais": "Sudáfrica",
+    "region": "Africa",
+    "valor": "32.64602136309"
+  },
+  {
+    "anio": 2014,
+    "pais": "Bahamas",
+    "region": "America del Norte",
+    "valor": "32.18471409246"
+  },
+  {
+    "anio": 2014,
+    "pais": "Guatemala",
+    "region": "America Central",
+    "valor": "31.38745553051"
+  },
+  {
+    "anio": 2014,
+    "pais": "Trinidad y Tobago",
+    "region": "America del Sur",
+    "valor": "29.90048675039"
+  },
+  {
+    "anio": 2014,
+    "pais": "Brasil",
+    "region": "America del Sur",
+    "valor": "27.95657613264"
+  },
+  {
+    "anio": 2014,
+    "pais": "Colombia",
+    "region": "America del Sur",
+    "valor": "27.91895055211"
+  },
+  {
+    "anio": 2014,
+    "pais": "Estados pequeos del Caribe",
+    "region": "Caribe",
+    "valor": "27.40000000000"
+  },
+  {
+    "anio": 2014,
+    "pais": "América Latina y el Caribe (excluido altos ingresos)",
+    "region": "América Latina y el Caribe (excluido altos ingresos)",
+    "valor": "2.40000000000"
+  },
+  {
+    "anio": 2014,
+    "pais": "América Latina y el Caribe (BIRF y la AIF)",
+    "region": "América Latina y el Caribe (BIRF y la AIF)",
+    "valor": "22.90000000000"
+  },
+  {
+    "anio": 2014,
+    "pais": "América Latina y el Caribe",
+    "region": "América Latina y el Caribe",
+    "valor": "22.50000000000"
+  },
+  {
+    "anio": 2015,
+    "pais": "El Salvador",
+    "region": "America Central",
+    "valor": "105.44195163928"
+  },
+  {
+    "anio": 2015,
+    "pais": "Honduras",
+    "region": "America Central",
+    "valor": "57.45004173163"
+  },
+  {
+    "anio": 2015,
+    "pais": "Jamaica",
+    "region": "America Central",
+    "valor": "42.06224794859"
+  },
+  {
+    "anio": 2015,
+    "pais": "Lesotho",
+    "region": "Africa",
+    "valor": "41.24811176077"
+  },
+  {
+    "anio": 2015,
+    "pais": "Bahamas",
+    "region": "America del Norte",
+    "valor": "37.74189712489"
+  },
+  {
+    "anio": 2015,
+    "pais": "Sudáfrica",
+    "region": "Africa",
+    "valor": "33.77208589609"
+  },
+  {
+    "anio": 2015,
+    "pais": "Belice",
+    "region": "America Central",
+    "valor": "33.12106165527"
+  },
+  {
+    "anio": 2015,
+    "pais": "Estados pequeos del Caribe",
+    "region": "Caribe",
+    "valor": "31.50000000000"
+  },
+  {
+    "anio": 2015,
+    "pais": "Trinidad y Tobago",
+    "region": "America del Sur",
+    "valor": "30.88026398214"
+  },
+  {
+    "anio": 2015,
+    "pais": "Guatemala",
+    "region": "America Central",
+    "valor": "29.39868249847"
+  },
+  {
+    "anio": 2015,
+    "pais": "Brasil",
+    "region": "America del Sur",
+    "valor": "28.38337622763"
+  },
+  {
+    "anio": 2015,
+    "pais": "Colombia",
+    "region": "America del Sur",
+    "valor": "26.50289308044"
+  },
+  {
+    "anio": 2015,
+    "pais": "América Latina y el Caribe (excluido altos ingresos)",
+    "region": "América Latina y el Caribe (excluido altos ingresos)",
+    "valor": "2.20000000000"
+  },
+  {
+    "anio": 2015,
+    "pais": "América Latina y el Caribe (BIRF y la AIF)",
+    "region": "América Latina y el Caribe (BIRF y la AIF)",
+    "valor": "22.70000000000"
+  },
+  {
+    "anio": 2015,
+    "pais": "América Latina y el Caribe",
+    "region": "América Latina y el Caribe",
+    "valor": "22.30000000000"
+  },
+  {
+    "anio": 2016,
+    "pais": "El Salvador",
+    "region": "America Central",
+    "valor": "82.84225749990"
+  },
+  {
+    "anio": 2016,
+    "pais": "Honduras",
+    "region": "America Central",
+    "valor": "56.51570309112"
+  },
+  {
+    "anio": 2016,
+    "pais": "Venezuela",
+    "region": "America Central",
+    "valor": "56.33331991279"
+  },
+  {
+    "anio": 2016,
+    "pais": "Jamaica",
+    "region": "America Central",
+    "valor": "47.01105843141"
+  },
+  {
+    "anio": 2016,
+    "pais": "Belice",
+    "region": "America Central",
+    "valor": "37.59916780509"
+  },
+  {
+    "anio": 2016,
+    "pais": "San Vicente y las Granadinas",
+    "region": "America Central",
+    "valor": "36.45616874831"
+  },
+  {
+    "anio": 2016,
+    "pais": "Sudáfrica",
+    "region": "Africa",
+    "valor": "33.97095702549"
+  },
+  {
+    "anio": 2016,
+    "pais": "Brasil",
+    "region": "America del Sur",
+    "valor": "29.52795649805"
+  },
+  {
+    "anio": 2016,
+    "pais": "Bahamas",
+    "region": "America del Norte",
+    "valor": "28.40055736733"
+  },
+  {
+    "anio": 2016,
+    "pais": "Guatemala",
+    "region": "America Central",
+    "valor": "27.25501907508"
+  },
+  {
+    "anio": 2016,
+    "pais": "Colombia",
+    "region": "America del Sur",
+    "valor": "25.50432614819"
+  },
+  {
+    "anio": 2016,
+    "pais": "República Centroafricana",
+    "region": "República Centroafricana",
+    "valor": "19.75737596079"
+  },
+  {
+    "anio": 2016,
+    "pais": "México",
+    "region": "America Central",
+    "valor": "19.26396009630"
+  },
+  {
+    "anio": 2016,
+    "pais": "Puerto Rico (EEUU)",
+    "region": "America Central (EEUU)",
+    "valor": "18.50587137607"
+  },
+  {
+    "anio": 2016,
+    "pais": "Guyana",
+    "region": "America del Sur",
+    "valor": "18.37077607990"
+  }
+]
